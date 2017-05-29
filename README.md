@@ -1,3 +1,3 @@
 ##The Theater Game
 
-** Repositorio original en: [https://github.com/theonfx/TheTeatherGamev2/](https://github.com/theonfx/TheTeatherGamev2/) **
+** Repositorio original en: [https://theonfx.github.io/TheTeatherGamev2/](https://theonfx.github.io/TheTeatherGamev2/) **
